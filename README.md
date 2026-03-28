@@ -1,6 +1,6 @@
 PHP NUM_Starbuck Coffee Management System
 
-This project is a PHP-based e-commerce system with two user roles: Admin and User, implementing sessions and cookies for secure login and logout.
+This project is a PHP-based coffee system with two user roles: Admin and User, implementing sessions and cookies for secure login and logout.
 
 Main Features
 Authentication System
